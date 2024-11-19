@@ -2,7 +2,7 @@ name: Executer des tests cypress
 
 on:
   push:
-     branches: [ "main" ]
+    branches: [ "main" ]
 
 jobs:
   run-tests:
